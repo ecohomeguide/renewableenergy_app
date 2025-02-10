@@ -1,4 +1,4 @@
-# ecohomeguide_app
+# renewableenergy_app
 
 A new Flutter project.
 
